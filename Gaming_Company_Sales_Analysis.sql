@@ -5,6 +5,8 @@ CREATE video_games_sales ;
 /* using a database
 use video_games_sales ;
 
+/* table data Import Wizard */
+
 --- viewing records from tables
 
 select *  from gamesales;
