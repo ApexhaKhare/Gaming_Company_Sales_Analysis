@@ -15,3 +15,8 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGt
 
 # Power BI Dashboard 
 https://app.powerbi.com/view?r=eyJrIjoiNTUyODI3YmUtYzMwZS00ZjU2LWEzMjMtYTQ0Y2JiMjY3NDIzIiwidCI6Ijk5ZGVjZWQ3LWVkMDItNDY5Ny05MDFmLWZkMzc4ZThlYTFmZSJ9
+
+
+# Problem Statement- 
+
+From the Point of view of an investor or a gaming company, we want to know the popular Genres and platform which have more sales over the years so that we can invest and publish more games on those genres and platforms.
